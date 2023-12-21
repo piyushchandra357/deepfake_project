@@ -1,0 +1,1 @@
+A project designed to detect whether the input video is a deepfake or a originally recorded video. It helps in distinguishing between the two using its extensively large dataset and trained classifiers.
